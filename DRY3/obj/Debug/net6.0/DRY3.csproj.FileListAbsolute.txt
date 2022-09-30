@@ -1,0 +1,15 @@
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\bin\Debug\net6.0\DRY3.exe
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\bin\Debug\net6.0\DRY3.deps.json
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\bin\Debug\net6.0\DRY3.runtimeconfig.json
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\bin\Debug\net6.0\DRY3.dll
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\bin\Debug\net6.0\DRY3.pdb
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.csproj.AssemblyReference.cache
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.AssemblyInfoInputs.cache
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.AssemblyInfo.cs
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.csproj.CoreCompileInputs.cache
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.dll
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\refint\DRY3.dll
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.pdb
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\DRY3.genruntimeconfig.cache
+E:\Amac\Presentations\AMAC DIPLOMA\SLDC\CODE\DRY\Dry1\DRY3\obj\Debug\net6.0\ref\DRY3.dll
